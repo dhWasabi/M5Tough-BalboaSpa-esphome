@@ -88,13 +88,15 @@ uart:
 external_components:
   - source:
       type: git
-      url: https://github.com/mhetzi/esphome-balboa-spa
+      url: https://github.com/brianfeucht/esphome-balboa-spa
       ref: main
     components: [balboa_spa]
 
 # OPTIMIZED Balboa Spa component configuration
 balboa_spa:
   id: spa
+  spa_temp_scale: C
+  esphome_temp_scale: C
   uart_id: spa_uart_bus
 
 # Climate control with optimized settings
