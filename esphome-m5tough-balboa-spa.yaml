@@ -52,7 +52,7 @@ mqtt:
   discovery: false
   discovery_retain: false
   topic_prefix: home/m5tough-balboa-spa
-  # Birth message (sent when device connects)
+  # Birth message (sent when device connects) 
   birth_message:
     topic: home/m5tough-balboa-spa/LWT
     payload: "online"

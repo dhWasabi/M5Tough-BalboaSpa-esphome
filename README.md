@@ -5,7 +5,7 @@ An ESP32-based project for monitoring Balboa spa systems using the M5Tough devic
 ![M5Tough Balboa Spa Wiring](docu/spa_wiring.png)
 
 
-## 🛠️ Required Components
+## 🛠️ Required Components 
 
 To build this Balboa spa monitoring system, you'll need the following hardware components:
 
