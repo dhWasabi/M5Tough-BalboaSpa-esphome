@@ -2,10 +2,10 @@
 
 An ESP32-based project for monitoring Balboa spa systems using the M5Tough device with RS485 communication. This project is built on ESPHome and provides real-time spa monitoring capabilities.
 
-![M5Tough Balboa Spa Wiring](docu/spa_wiring.png)
+![M5Tough Balboa Spa Wiring](documentation/hw-setup-final.png)
 
 
-## 🛠️ Required Components 
+## 🛠️ Required Components
 
 To build this Balboa spa monitoring system, you'll need the following hardware components:
 
