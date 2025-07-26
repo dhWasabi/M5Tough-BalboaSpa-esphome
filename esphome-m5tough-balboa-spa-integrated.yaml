@@ -120,9 +120,9 @@ switch:
         - logger.log: "Jet 1 turned ON"
       on_turn_off:
         - logger.log: "Jet 1 turned OFF"
-    jet2:
+    light2:
       name: "Spa Jet 2"
-      id: spa_jet2
+      id: spa_light2
       icon: "mdi:turbine"
       on_turn_on:
         - logger.log: "Jet 2 turned ON"
@@ -136,7 +136,6 @@ switch:
         - logger.log: "Light turned ON"
       on_turn_off:
         - logger.log: "Light turned OFF"
-
 
 # Core spa sensors with reduced update frequency
 sensor:
