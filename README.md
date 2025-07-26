@@ -38,6 +38,7 @@ This project is based on excellent reference projects adapted specifically for t
 - ✅ **MQTT Integration**: Full MQTT broker connectivity with Last Will Testament (LWT) messages
 - ✅ **Home Automation Controls**: Control spa functions via MQTT commands
 - ✅ **Status Monitoring**: Real-time status updates via MQTT topics
+- ✅ **Stability**: Auto-restart configuration for improved device stability
 
 ### 📋 Todo List
 - ⬜ **Touch Screen Display**: M5Tough TFT display output for local spa status and controls
